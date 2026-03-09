@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Xinyu Yan
 
 <a href="https://github.com/Tristan-SHU?tab=repositories" >
-  <img align=right width="45%" src="https://github-readme-stats-fast.vercel.app/api?username=Tristan-SHU&show_icons=true&theme=algolia" />
+  <img align=right width="45%" src="https://github-readme-stats-fast.vercel.app/api?username=Tristan0318&show_icons=true&theme=algolia" />
 </a>
 
 - 📚 PhD Student (Batch 2025) at Nanyang Technological University (NTU), Singapore
